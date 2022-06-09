@@ -31,7 +31,7 @@
 <ul>
   <li>Git</li>
   <li>Node.js</li>
-  <li>Yarn/li>
+  <li>Yarn</li>
  </ul>
 
    <br>

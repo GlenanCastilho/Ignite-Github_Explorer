@@ -18,9 +18,9 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>typescript</li>
+  <li>babel-loader</li>
+  <li>sass-loader</li>
  
 </ul>
 

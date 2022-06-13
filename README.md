@@ -1,14 +1,3 @@
-<div align="center">
-  <img src="" width="300" >
-</div>
-
-##
-
-<img src="" width="1200"/>
-
-<br>
-<br>
-
 <h1>📃 Sobre</h1>
  
 <h4 align="justify">Aplicação React utilizando ferramentas como Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh e estudo de conceitos importantes do React como componentes, propriedades, estados e hooks além de aplicar o TypeScript no  projeto para adicionar tipagem estática à aplicação.</h4>
